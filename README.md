@@ -8,7 +8,7 @@
     <a href="https://stepik.org/users/496776514/profile">
       <img src="https://img.shields.io/badge/Stepik-red?style=for-the-badge&logo=Stepik&logoColor=white" alt="Stepik"/>
     </a>
-    <a href="https://stepik.org/users/496776514/profile">
+    <a href="https://t.me/andrewwwcg">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Stepik"/>
     </a>
 <h1>

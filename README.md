@@ -28,9 +28,9 @@
 
 Я хочу стать QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> поэтому:
 
-- :telescope: Я смотрю разные видео курсы на платформе  <img src="https://media.giphy.com/media/TgMAmoaliiMthuz4zM/giphy.gif" width="20", например: cherkasovschool, Artsiom Rusau QA Life.
+- :telescope: Я смотрю разные видео курсы на платформе  <img src="https://media.giphy.com/media/TgMAmoaliiMthuz4zM/giphy.gif" width="25">, например: *cherkasovschool*, *Artsiom Rusau QA Life*.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Прохожу разные курсы на тематику тестирования на платформе Stepik. Ссылка на мой профиль: <https://stepik.org/users/496776514/profile>
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 

@@ -17,8 +17,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="400" height="300"/>
 </div>
+
 ---
-### :woman_technologist: About Me :
+
+### :woman_technologist: Маленький блог обо мне:
+
+Я хочу стать QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> поэтому:
+
+- :telescope: Я смотрю разные видео курсы на платформе  <img src="https://media.giphy.com/media/TgMAmoaliiMthuz4zM/giphy.gif" width="20", например: cherkasovschool, Artsiom Rusau QA Life.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)

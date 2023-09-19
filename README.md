@@ -29,8 +29,7 @@
 
 - :telescope: Я смотрю разные видео курсы на платформе  <img src="https://media.giphy.com/media/TgMAmoaliiMthuz4zM/giphy.gif" width="25">, например: *cherkasovschool*, *Artsiom Rusau QA Life*.
 
-- :seedling: Прохожу разные курсы на тематику тестирования на платформе Stepik. [Ссылка на мой профиль:](https://stepik.org/users/496776514/profile) <https://stepik.org/users/496776514/profile>\
-
+- :seedling: Прохожу разные курсы на тематику тестирования на платформе Stepik. [Ссылка на мой профиль:](https://stepik.org/users/496776514/profile) <https://stepik.org/users/496776514/profile>
 
 ---  
 
